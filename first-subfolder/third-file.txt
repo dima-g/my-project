@@ -1,1 +1,3 @@
 Third text file is here - welcome
+
+Also changed in the main file
